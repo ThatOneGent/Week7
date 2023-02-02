@@ -1,0 +1,13 @@
+
+
+/* Sitewide CSS file */
+
+body {
+    background-color: rgb(143, 211, 116);
+  }
+
+img {
+  border-radius: 8px;
+  height: 250px;
+  width: auto;
+  }

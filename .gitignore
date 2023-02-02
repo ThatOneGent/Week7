@@ -1,2 +1,4 @@
 *.docx
+*docx*
 node_modules
+*.md
